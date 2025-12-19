@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "UITraPass",
+    "version": "1.0.0",
+    "description": "iykyk",
+    "content_scripts": [
+    {
+        "matches": ["*://*.uit.edu.vn/*"],
+        "js": ["content.js"]
+    }
+    ],
+    "icons": {
+        "128": "icon.png"
+    }
+}
