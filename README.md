@@ -3,7 +3,8 @@ iykyk
 
 ![Demo](/demo.png "Demo")
 
-## Installation
+## Download and Installation
+Download the `.zip` file [here](https://github.com/callmepeterz/UITraPass/releases/latest), unzip the file, and follow the instructions for your browser:
 ### Chrome
 Go to `chrome://extensions`, enable Developer mode, and load the unpacked extension from this directory.
 ### Edge
